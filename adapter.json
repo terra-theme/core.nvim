@@ -1,0 +1,6 @@
+{
+    "$schema": "https://raw.githubusercontent.com/black-atom-industries/core/refs/heads/feature/dev-153-setup-black-atom-core/adapter.schema.json",
+    "black-atom-corp-eng": {
+        "template": "lua/black-atom/themes/corp/black-atom-eng.template.lua"
+    }
+}
